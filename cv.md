@@ -42,8 +42,6 @@ alert( result );
 ### Languages
 * **English** - between B1 *Intermediate* and B2 *Upper Intermediate* (according to the online test at ![EFset Logo]
 
-### ![Languagesrtificat 2]
-
 * Belarusian - Native
 * Russian - Native
 * Polish - Basic
